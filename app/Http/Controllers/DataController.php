@@ -3,7 +3,7 @@
 namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 
-class ProductController extends Controller
+class DataController extends Controller
 {
     public function index () {
         $data = [
